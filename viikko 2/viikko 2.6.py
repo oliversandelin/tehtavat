@@ -1,0 +1,10 @@
+import random
+n1 = random.randint(0,9)
+n2 = random.randint(0,9)
+n3 = random.randint(0,9)
+nn1 = random.randint(1,6)
+nn2 = random.randint(1,6)
+nn3 = random.randint(1,6)
+nn4 = random.randint(1,6)
+print("Kolmenumeroinen koodi: ", n1, n2, n3, sep="")
+print("Nelinumeroinen koodi: ", nn1, nn2, nn3, nn4, sep="")
