@@ -2,7 +2,7 @@ import math
 kuhan_mitta = float(input("anna kuhan mitta"))
 alamittaisuus = (37-kuhan_mitta)
 
-if kuhan_mitta < 37:print(alamittaisuus,"CM liian lyht laske kuha takaisin järveen")
+if kuhan_mitta < 37:print(alamittaisuus,"CM liian lyht OLET PASKA laske kuha takaisin järveen")
 if kuhan_mitta > 37:print("Onnittelut et ole täysin turha")
 
 hytin_luokka = input("Mikä on sinun hytti luokkasi?: LUX, A, B, C")
