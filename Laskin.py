@@ -16,18 +16,20 @@ while True:
     if toiminto == "X":
         print("Lopetetaan...")
         break
-
+    if toiminto not in ["A", "B", "C", "D"]:
+        print("Tuntematon toiminto! Yritä uudelleen.")
+        continue
     luku1 = int(input("Anna ensimmäinen luku: "))
     luku2 = int(input("Anna toinen luku: "))
 
     if toiminto == "A":
-        print("Tulos:", luku1 + luku2)
+        print("Tulos:", yhteenlasku(luku1, luku2))
     elif toiminto == "B":
-        print("Tulos:", luku1 - luku2)
+        print("Tulos:", vahennyslasku(luku1, luku2))
     elif toiminto == "C":
-        print("Tulos:", luku1 * luku2)
+        print("Tulos:", kertolasku(luku1, luku2))
     elif toiminto == "D":
-        print("Tulos:", luku1 / luku2)
+        print("Tulos:", jakolasku(luku1, luku2))
     else:
         print("Tuntematon toiminto!")
 
