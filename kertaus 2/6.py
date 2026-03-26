@@ -9,6 +9,11 @@ def jakolasku(a,b):
         return "nollalla ei voi jakaa"
     return a/b
 
+
+
+
+
+
 print(("\n-----Tervettuloa käyttämään laskinta-----"))
 while True:
     toiminto = input("Valitse \n A:Yhteenlasku \n B: Vähennyslasku, \n C: Kertolasku \n D: Jakolasku \n tai X: lopettaaksesi: ").upper()
@@ -30,4 +35,3 @@ while True:
         print("Tulos:", luku1 / luku2)
     else:
         print("Tuntematon toiminto!")
-
