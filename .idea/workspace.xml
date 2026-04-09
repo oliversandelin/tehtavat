@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15a853dd-9f9e-4d8f-be56-e667f0e18248" name="Changes" comment="tehtava 1">
-      <change afterPath="$PROJECT_DIR$/kertaus 2/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kertaus 2/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kertaus 2/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kertaus 2/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kertaus 2/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kertaus 2/6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laskin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Laskin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viikko 7/7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viikko 7/7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viikko 7/7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viikko 7/aiheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,11 @@
     "Python.5.executor": "Run",
     "Python.6.1.executor": "Run",
     "Python.6.executor": "Run",
+    "Python.7.1.executor": "Run",
+    "Python.7.2.executor": "Run",
+    "Python.7.3.executor": "Run",
     "Python.Laskin.executor": "Run",
+    "Python.aiheet.executor": "Run",
     "Python.peli 2.executor": "Run",
     "Python.peli.executor": "Run",
     "Python.testi.executor": "Run",
@@ -142,7 +144,8 @@
       <workItem from="1773766984758" duration="959000" />
       <workItem from="1773904322794" duration="6766000" />
       <workItem from="1774360990427" duration="904000" />
-      <workItem from="1774508398919" duration="5728000" />
+      <workItem from="1774508398919" duration="6037000" />
+      <workItem from="1775715331561" duration="5830000" />
     </task>
     <task id="LOCAL−00001" summary="tehtava 1">
       <option name="closed" value="true" />
@@ -249,7 +252,21 @@
       <option name="presentableId" value="LOCAL−00015" />
       <updated>1774361691348</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL−00016" summary="tehtava 1">
+      <option name="closed" value="true" />
+      <created>1774514419995</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1774514419995</updated>
+    </task>
+    <task id="LOCAL−00017" summary="tehtava 1">
+      <option name="closed" value="true" />
+      <created>1774514660538</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1774514660538</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,21 +277,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="tehtava 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tehtavat$viikko_3.coverage" NAME="viikko 3 Coverage Results" MODIFIED="1770915417832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 3" />
-    <SUITE FILE_PATH="coverage/tehtavat$4_5.coverage" NAME="4.5 Coverage Results" MODIFIED="1772140981377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 4" />
     <SUITE FILE_PATH="coverage/tehtavat$4_2.coverage" NAME="4.2 Coverage Results" MODIFIED="1773227619966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 4" />
+    <SUITE FILE_PATH="coverage/tehtavat$4_5.coverage" NAME="4.5 Coverage Results" MODIFIED="1772140981377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 4" />
+    <SUITE FILE_PATH="coverage/tehtavat$viikko_3.coverage" NAME="viikko 3 Coverage Results" MODIFIED="1770915417832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 3" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko_2_5.coverage" NAME="viikko 2.5 Coverage Results" MODIFIED="1770717423421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 2" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko_1_1.coverage" NAME="viikko 1.1 Coverage Results" MODIFIED="1770207053145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 1" />
     <SUITE FILE_PATH="coverage/tehtavat$4.coverage" NAME="4 Coverage Results" MODIFIED="1774512834090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus 2" />
     <SUITE FILE_PATH="coverage/tehtavat$peli.coverage" NAME="peli Coverage Results" MODIFIED="1770749154742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavat$5.coverage" NAME="5 Coverage Results" MODIFIED="1774513602274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus 2" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko_2_4.coverage" NAME="viikko 2.4 Coverage Results" MODIFIED="1770716807321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 2" />
+    <SUITE FILE_PATH="coverage/tehtavat$7_1.coverage" NAME="7.1 Coverage Results" MODIFIED="1775719930976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 7" />
     <SUITE FILE_PATH="coverage/tehtavat$2.coverage" NAME="2 Coverage Results" MODIFIED="1774510481755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus 2" />
     <SUITE FILE_PATH="coverage/tehtavat$4_4.coverage" NAME="4.4 Coverage Results" MODIFIED="1773228267908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 4" />
     <SUITE FILE_PATH="coverage/tehtavat$5_2.coverage" NAME="5,2 Coverage Results" MODIFIED="1773904486618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 5" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko_2_1.coverage" NAME="viikko 2.1 Coverage Results" MODIFIED="1770656748534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 2" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko_2_6.coverage" NAME="viikko 2.6 Coverage Results" MODIFIED="1770727138790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 2" />
     <SUITE FILE_PATH="coverage/tehtavat$4_1.coverage" NAME="4.1 Coverage Results" MODIFIED="1772012647526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 4" />
+    <SUITE FILE_PATH="coverage/tehtavat$7_3.coverage" NAME="7.3 Coverage Results" MODIFIED="1775721858210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 7" />
     <SUITE FILE_PATH="coverage/tehtavat$6.coverage" NAME="6 Coverage Results" MODIFIED="1774514354829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus 2" />
     <SUITE FILE_PATH="coverage/tehtavat$5_4.coverage" NAME="5,4 Coverage Results" MODIFIED="1773905260885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 5" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko_2_3.coverage" NAME="viikko 2.3 Coverage Results" MODIFIED="1770716528317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 2" />
@@ -284,10 +303,12 @@
     <SUITE FILE_PATH="coverage/tehtavat$3.coverage" NAME="3 Coverage Results" MODIFIED="1774511746835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus 2" />
     <SUITE FILE_PATH="coverage/tehtavat$4_3.coverage" NAME="4.3 Coverage Results" MODIFIED="1773227781915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 4" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko_1_2.coverage" NAME="viikko 1.2 Coverage Results" MODIFIED="1770207093716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 1" />
+    <SUITE FILE_PATH="coverage/tehtavat$aiheet.coverage" NAME="aiheet Coverage Results" MODIFIED="1775719366396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 7" />
+    <SUITE FILE_PATH="coverage/tehtavat$7_2.coverage" NAME="7.2 Coverage Results" MODIFIED="1775720735242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 7" />
     <SUITE FILE_PATH="coverage/tehtavat$peli_2.coverage" NAME="peli 2 Coverage Results" MODIFIED="1770748695263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tehtavat$1.coverage" NAME="1 Coverage Results" MODIFIED="1774509403154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus 2" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko_2_2.coverage" NAME="viikko 2.2 Coverage Results" MODIFIED="1770657660161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 2" />
     <SUITE FILE_PATH="coverage/tehtavat$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1774361066774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko 6" />
-    <SUITE FILE_PATH="coverage/tehtavat$Laskin.coverage" NAME="Laskin Coverage Results" MODIFIED="1773229370361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tehtavat$Laskin.coverage" NAME="Laskin Coverage Results" MODIFIED="1775715358018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
