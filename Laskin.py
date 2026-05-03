@@ -3,7 +3,7 @@ def yhteenlasku(a,b):
 def vahennyslasku(a,b):
     return a-b
 def kertolasku(a,b):
-    a*b
+    return a*b
 def jakolasku(a,b):
     if b==0:
         return "nollalla ei voi jakaa"
